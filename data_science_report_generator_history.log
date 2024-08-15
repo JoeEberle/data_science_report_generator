@@ -1,3 +1,5 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 2024-08-14 23:01:34,146 - INFO - START data_science_report_generator =============================================
 2024-08-14 23:01:34,146 - INFO - START data_science_report_generator Start Time = 2024-08-14 23:01:34
 2024-08-14 23:01:34,146 - INFO - data_science_report_generator Step 0 - Initialize the configuration file parser
@@ -7,3 +9,6 @@
 2024-08-14 23:01:34,175 - INFO - PERFORMANCE data_science_report_generator Short process duration less than 3 Seconds:0.03
 2024-08-14 23:01:34,175 - INFO - PERFORMANCE data_science_report_generator Performance optimization is not reccomended
 2024-08-14 23:01:34,175 - INFO - END data_science_report_generator =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
