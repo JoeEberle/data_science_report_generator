@@ -40,3 +40,17 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-08-23 10:47:16,854 - INFO - START data_science_report_generator =============================================
+2024-08-23 10:47:16,855 - INFO - START data_science_report_generator Start Time = 2024-08-23 10:47:16
+2024-08-23 10:47:16,855 - INFO - data_science_report_generator Step 0 - Initialize the configuration file parser
+2024-08-23 10:47:16,856 - INFO - Process data_science_report_generator Step 0 - Initializing and starting Logging Process.
+2024-08-23 10:47:16,884 - INFO - PERFORMANCE data_science_report_generator The total process duration was:0.03
+2024-08-23 10:47:16,884 - INFO - PERFORMANCE data_science_report_generator Stop Time = 2024-08-23 10:47:16
+2024-08-23 10:47:16,885 - INFO - PERFORMANCE data_science_report_generator Short process duration less than 3 Seconds:0.03
+2024-08-23 10:47:16,885 - INFO - PERFORMANCE data_science_report_generator Performance optimization is not reccomended
+2024-08-23 10:47:16,885 - INFO - END data_science_report_generator =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
