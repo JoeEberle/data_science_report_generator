@@ -1,8 +1,9 @@
 
-This project creates a word document for data science projects that produces a report of the scientific 
-process used to analyze the data. 
+This project creates a word document for data science projects that produces a report of the scientific process used to analyze the data. 
 
-A **data science report or storyboard** is a tool used to plan, visualize, and communicate the sequence of steps, findings, and insights throughout a data science project. It is particularly valuable for conveying complex analyses and results to both technical and non-technical stakeholders in an organized and engaging manner.
+A **data science report or storyboard** is a tool used to plan, visualize, and communicate the sequence of steps,
+findings, and insights throughout a data science project. It is particularly valuable for conveying complex
+analyses and results to both technical and non-technical stakeholders in an organized and engaging manner.
 
 Key Uses of a Data Science Storyboard:
 1. **Project Planning**: It helps in outlining the objectives, hypotheses, data sources, and analytical approaches to be used in the project. This can guide the team through the project phases.
@@ -21,32 +22,12 @@ In essence, a data science storyboard bridges the gap between data analysis and 
 
 Sample Table of Contents
 1. Introduction
-
 2. Overview of the HEDIS Measure
 3. Objective of the Analysis
 4. Data Description
-
-**Denominator**: The number of Patients who qualify for the HEDIS measure
-**Numerator**: Patients who met and did not meet the measure goal
-**Exclusions**: Patients excluded for clinical reasons
-Data Sources and Collection Process
-Data Analysis
-
-5. Calculation of Compliance Rates (Numerator/Denominator)
+5. Calculation of Key Performance Indicators
 6. Exploratory Data Analysis (EDA)
 7. Identification of Key Factors Affecting Compliance Results
-8. Key Findings (e.g., compliance rates, trends)
+8. Key Findings - Calculation of Key Performance Indicators (e.g., compliance rates, trends)
 9. Visualization of Results (e.g., graphs, charts)
-
-
-Significance of Results in Healthcare Quality
-Analysis of Non-Compliance Causes
-Areas Needing Improvement
-Recommendations and Conclusion
-
-Actionable Insights to Improve Compliance
-Summary and Next Steps
-Description of HEDIS Measures:
-In HEDIS measures, the Denominator represents the patients eligible for the measure, while the Numerator includes both patients who met and those who did not meet the measure's goal. The Exclusions are patients excluded for clinical reasons. The analysis focuses on the compliance rate derived from the numerator and denominator, highlighting areas for quality improvement in healthcare delivery.
-
 
