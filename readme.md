@@ -68,11 +68,8 @@ To get started with the **Data Science Report Generator** solution repository, f
  ![additional_image](data_science_report_generator.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
