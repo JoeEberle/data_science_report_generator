@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Data Science Report Generator - This project creates a word document for data science projects that produces a report of the scientific 
-This project creates a word document for data science projects that produces a report of the scientific 
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Data Science Report Generator - This project creates a word document for data science projects that produces a report of the scientific ![Image image_filename](code.png)
 This project creates a word document for data science projects that produces a report of the scientific process used to analyze the data. 
 
 A **data science report or storyboard** is a tool used to plan, visualize, and communicate the sequence of steps,
@@ -38,9 +31,7 @@ Sample Table of Contents
 8. Key Findings - Calculation of Key Performance Indicators (e.g., compliance rates, trends)
 9. Visualization of Results (e.g., graphs, charts)
 
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Data Science Report Generator** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -55,6 +46,9 @@ To get started with the **Data Science Report Generator** solution repository, f
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -64,13 +58,11 @@ To get started with the **Data Science Report Generator** solution repository, f
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](data_science_report_generator.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
