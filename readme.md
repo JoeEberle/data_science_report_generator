@@ -31,7 +31,7 @@ Sample Table of Contents
 8. Key Findings - Calculation of Key Performance Indicators (e.g., compliance rates, trends)
 9. Visualization of Results (e.g., graphs, charts)
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
