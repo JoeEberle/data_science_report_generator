@@ -4,7 +4,25 @@
 
 ## This project creates a word document for data science projects that produces a report of the scientific 
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 This project creates a word document for data science projects that produces a report of the scientific process used to analyze the data. 
 
 A **data science report or storyboard** is a tool used to plan, visualize, and communicate the sequence of steps,
@@ -37,7 +55,13 @@ Sample Table of Contents
 8. Key Findings - Calculation of Key Performance Indicators (e.g., compliance rates, trends)
 9. Visualization of Results (e.g., graphs, charts)
 
-![Image image_filename](code.png)![Image image_filename](sample.png)
+
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
