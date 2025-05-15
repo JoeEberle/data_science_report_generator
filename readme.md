@@ -80,13 +80,3 @@ To get started with the **Data Science Report Generator** solution repository, f
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](data_science_report_generator.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
